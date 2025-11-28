@@ -3,13 +3,7 @@
 ## Study Overview
 
 Psychophysics is the scientific study of the relationship between physical stimuli (like light, sound, or size) and our psychological perception of them.
-A fundamental question in this field is: when something in the world changes by a certain amount, how much does our perception of it change?
-
-> "The tower of Babel was never finished because the workers could not reach an understanding on how they should build it; my psychophysical edifice will stand because the workers will never agree on how to tear it down."  
-> — Gustav Fechner (1877)
-
-In this quote, Fechner—the founder of psychophysics—humorously suggests that his framework for understanding how we perceive the physical world will endure precisely because critics cannot agree on a unified approach to challenge it.
-Empierically we can challenge it by trying to replicate an original experiment from the time.
+A fundamental question in this field is: when something in the world changes by a certain amount, how much does our perception of it change? In 1877, Fechner— the founder of psychophysics—introduced his seminal theory on the perception of the physical world. He already anticipated that his theory would prevail for long time precisely because critics of theory would not find a way to agree on a unified approach to challenge it. Empirically, however, we think it should be consensually acceptable that his theory could be challenged by trying to replicate an original experiment from the time.
 
 This study replicates pioneering work from the 1940s-1950s on visual perception, specifically examining how people judge the relative sizes of objects.
 While often associated with Stevens' Power Law (1957), the specific experiment we're replicating focuses on reaction time in discrimination tasks, building on earlier work by researchers like Cattell (1902) and Henmon (1906).
