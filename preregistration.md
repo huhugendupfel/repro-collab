@@ -36,7 +36,7 @@ Five participants with normal or corrected-to-normal vision will complete the st
 
 ### Materials
 
-- **Tachistoscope**: A device that presents visual stimuli for precisely controlled durations
+- **Computer and monitor**: The computer runs the experiment which presents visual stimuli for precisely controlled durations
 - **Stimuli**: Black squares on a white background
   - Reference square: 9.00 sq.mm (constant)
   - Comparison squares: 39 different sizes ranging from 8.00 to 15.00 sq.mm
@@ -50,11 +50,11 @@ Five participants with normal or corrected-to-normal vision will complete the st
    - The participant judges which square is larger by pressing a corresponding button
    - Reaction time is recorded from stimulus onset to response
    - The stimuli remain visible until a response is made
-3. Trial distribution:
+3. We conduct trials.
    - 200 trials for comparison sizes very close to the reference (hardest discriminations)
    - 100 trials for intermediate differences
    - 50 trials for the largest differences (easiest discriminations)
-   - Total: approximately 6,850 trials per participant
+   - Total: approximately 500 trials per participant
 4. Sessions last approximately one hour, with regular breaks to prevent fatigue
 
 ### Key Measurements
